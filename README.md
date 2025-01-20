@@ -26,7 +26,7 @@ Welcome to the **PWM-Based AC-AC Controller** project! This hardware design demo
   - Arduino Nano code for generating PWM signals.
 - **/Documentation:**
   - Detailed circuit design, testing procedure, and analysis.
-  - **[MATLAB Simulink File](https://www.linkedin.com/pulse/hardware-implementation-pwm-based-ac-converter-using-igbt-hasan/):**
+  - **[LinkedIn](https://www.linkedin.com/pulse/hardware-implementation-pwm-based-ac-converter-using-igbt-hasan/)**
 - **/Media:**
   - Photos and videos showcasing the hardware and testing process.
 
