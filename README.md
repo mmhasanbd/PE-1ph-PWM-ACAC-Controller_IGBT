@@ -13,10 +13,7 @@ Welcome to the **PWM-Based AC-AC Controller** project! This hardware design demo
 ---
 
 ## 🛠️ Key Components
-- **Arduino Nano:** Microcontroller for generating PWM signals.
-- **IGBT (HW20R1203):** Power switches for handling AC loads.
-- **Driver Circuit:** Ensures proper operation of the IGBTs.
-- **Op-Amp (LM385):** Used in signal processing for the control circuit.
+- **Arduino Nano R.3, IGBT (HW20R1203), DC/DC Buck Converter, Driver, Capacitor(1000uF), Capacitor(others), Resistor, POT, Diode, 8 Pin IC base, Op-Amp (LM358N), Fuze, Fuze Holder, T-Block, Button, Transformer** 
 
 ---
 
