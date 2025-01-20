@@ -24,7 +24,7 @@ Welcome to the **PWM-Based AC-AC Controller** project! This hardware design demo
 - **/Hardware:**
   - **Proteus PCB Design Files:** Includes circuit schematics and PCB layouts for easy replication.
 - **/Simulation:**
-  - **MATLAB Simulation Files:** Used to simulate and validate the PWM-based voltage control system.
+  - **[MATLAB Simulink File](https://github.com/mmhasanbd/PE-1ph-PWM-ACAC-Controller_IGBT/blob/main/Simulink_File_ACAC_PWM.slx):** Simulates the PWM-based voltage control system to validate performance.
 - **/Code:**
   - Arduino Nano code for generating PWM signals.
 - **/Documentation:**
@@ -38,6 +38,7 @@ Welcome to the **PWM-Based AC-AC Controller** project! This hardware design demo
 - Provides **precise voltage control** for AC loads.
 - Cost-effective and straightforward design.
 - Fully tested with real-world AC load (25W, 220V light bulb).
+- MATLAB Simulink file for validating theoretical concepts and system design.
 
 ---
 
